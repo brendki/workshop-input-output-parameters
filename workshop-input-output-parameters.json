@@ -1,10 +1,9 @@
 {
-    "title": "Expressions and Control Structures",
+    "title": "Input Output Parameters",
     "version": "1.0.0",
     "icon": "/test/icon.svg",
     "chat": "https://gitter.im/ethereum/play",
     "lessons": [{
-      "title": "Input Output Parameters",
     "lesson": "https://www.youtube.com/watch?v=v3aoiTh-UVQ",
     "tool": "https://solidity.readthedocs.io/en/v0.4.24/control-structures.html#input-parameters-and-output-parameters",
   
